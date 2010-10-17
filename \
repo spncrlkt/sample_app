@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ruby on Rails Tutorial Sample App | Contact</title>
+	</head>
+	<body>
+		<h1>About us</h1>
+		<p>
+		more information about this shit yeah buddy
+		</p>
+	</body>
+</html>
